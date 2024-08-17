@@ -1,0 +1,11 @@
+{
+  "name": "vulnerable-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "publish": "echo 'Publishing to production...'"
+  },
+  "dependencies": {}
+}
